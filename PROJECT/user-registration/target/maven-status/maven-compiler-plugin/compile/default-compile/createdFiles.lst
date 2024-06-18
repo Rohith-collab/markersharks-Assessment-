@@ -1,0 +1,4 @@
+com\example\userregistration\service\UserService.class
+com\example\userregistration\exception\UserAlreadyExistsException.class
+com\example\userregistration\controller\UserController.class
+com\example\userregistration\model\User.class
